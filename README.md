@@ -1,5 +1,5 @@
 # Coffee Excel Data Analysis and Dashboard
-**Business Task**: This project involves developing an interactive sales dashboard for a fictious coffee dataset of 1000 unique coffee orders and 50 unique coffee products.
+**Business Task**: This project involves developing an interactive sales dashboard for a fictitious coffee dataset of 1000 unique coffee orders and 50 unique coffee products.
 
 **Technologies**: Microsoft Excel (XLOOKUP, IF, INDEX, MATCH, PIVOT TABLES, SLICERS, TIMELINE, BAR AND LINE CHARTS)
 ## Process
